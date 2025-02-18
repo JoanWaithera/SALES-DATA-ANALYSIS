@@ -1,6 +1,9 @@
 # SALES-DATA-ANALYSIS
 Sales Data Analysis for Business Insights
 
+
+LINK TO PROJECT: https://docs.google.com/spreadsheets/d/1KPl7H_zzG39NIwqObDEIeN1-t3hikuNf_23gfAIHKMY/edit?usp=sharing
+
 In this project, I was tasked with analyzing a company's sales data to provide actionable business insights. The goal was to populate the 'Overview' sheet with key analytics that would help the business make informed decisions. The project covers several areas, including sales trends, order analysis, and delivery performance, and aims to highlight insights that could drive strategic business actions.
 
 Key Insights & Analysis:
